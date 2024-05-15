@@ -11,4 +11,5 @@ Hola
 
 ### Cambios desde local para github
 
-# Choque de commits desde local
+#### Choque de commits desde local
+#### Choque de commits desde github
